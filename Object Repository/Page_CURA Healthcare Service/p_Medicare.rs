@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h1_CURA Healthcare Service</name>
+   <name>p_Medicare</name>
    <tag></tag>
-   <elementGuidId>5744b1c4-f684-46d5-9e4e-d39c0bc15753</elementGuidId>
+   <elementGuidId>f31109f2-c398-4365-9af7-1d919bd68e4d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>h1</value>
+         <value>#program</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//header[@id='top']/div/h1</value>
+         <value>//p[@id='program']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>h1</value>
+         <value>internal:text=&quot;Medicare&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,95 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h1</value>
-      <webElementGuid>a125fffe-536c-4c07-a5b8-c802edbbe2cd</webElementGuid>
+      <value>p</value>
+      <webElementGuid>7234c170-db68-4059-8cd0-e6645785fe84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>program</value>
+      <webElementGuid>60fe8f2a-0ff8-49cf-a62a-7c0ac9b27215</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>CURA Healthcare Service</value>
-      <webElementGuid>fe9a3066-1634-41a9-9901-1c8bc8165ba0</webElementGuid>
+      <value>Medicare</value>
+      <webElementGuid>c0bcd533-2b3e-4878-87cc-3567b752c1f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;top&quot;)/div[@class=&quot;text-vertical-center&quot;]/h1[1]</value>
-      <webElementGuid>d0acf988-641c-4917-8e7f-9defc3c5df05</webElementGuid>
+      <value>id(&quot;program&quot;)</value>
+      <webElementGuid>0f965730-048a-4392-afdd-154dfb947876</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='program']</value>
+      <webElementGuid>da54c104-a3bd-4156-ac44-288a858043f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//header[@id='top']/div/h1</value>
-      <webElementGuid>86c6dbd1-ad0f-4d0a-8d4e-e9e00eaf4f3b</webElementGuid>
+      <value>//section[@id='summary']/div/div/div[4]/div[2]/p</value>
+      <webElementGuid>3a608349-fb3b-41bc-bcfb-aa5649d7994e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::h1[1]</value>
-      <webElementGuid>5862ce65-acee-4782-9332-db136b09095e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Program'])[1]/following::p[1]</value>
+      <webElementGuid>28004d26-738c-4b6a-995f-889384b24c9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::h1[1]</value>
-      <webElementGuid>dcbd5101-f0b4-4047-896e-0ea25bd0ffe5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply for hospital readmission'])[1]/following::p[2]</value>
+      <webElementGuid>092d06fc-983f-4631-83d6-28d88213bf04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/preceding::h1[1]</value>
-      <webElementGuid>2faccf50-1bb7-4325-9ef1-3da3277db03e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Date'])[1]/preceding::p[1]</value>
+      <webElementGuid>5c81e9c8-367b-4da7-866b-e1118e8ecfe3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/preceding::h1[1]</value>
-      <webElementGuid>e1fc571a-c2cf-406c-ab30-a34e516073de</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[1]/preceding::p[2]</value>
+      <webElementGuid>f472c6a4-8523-4bcd-9840-75cbe3ba7266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Medicare']/parent::*</value>
+      <webElementGuid>2e972317-eccb-4f4f-8f2d-082bbe864e26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h1</value>
-      <webElementGuid>938e4577-9db7-43b2-a9b6-c9e345813edf</webElementGuid>
+      <value>//div[4]/div[2]/p</value>
+      <webElementGuid>3100f97a-c5b2-4d3f-92e1-5d93badc9ed4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h1[(text() = 'CURA Healthcare Service' or . = 'CURA Healthcare Service')]</value>
-      <webElementGuid>6244fb0c-3735-4339-ac6f-5ed415b0862d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::h1[1]</value>
-      <webElementGuid>58cf007f-ea39-48b5-8758-7753a6e9ce4d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::h1[1]</value>
-      <webElementGuid>006914f4-b344-4363-8b21-c68c6b2c6d1f</webElementGuid>
+      <value>//p[@id = 'program' and (text() = 'Medicare' or . = 'Medicare')]</value>
+      <webElementGuid>e5dd850a-2566-447b-b180-e4c4e4567999</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

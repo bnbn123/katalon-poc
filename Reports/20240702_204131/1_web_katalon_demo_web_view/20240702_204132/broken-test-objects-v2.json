@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_CURA Healthcare Service/label_Comment",
+      "brokenLocator": "//section[@id\u003d\u0027summary\u0027]/div/div/div[6]/div/label",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Healthcare Program\u0027])[1]/following::label[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240702_204131/1_web_katalon_demo_web_view/20240702_204132/Object Repository/Page_CURA Healthcare Service/label_Comment_neighbor.png"
+    }
+  ]
+}

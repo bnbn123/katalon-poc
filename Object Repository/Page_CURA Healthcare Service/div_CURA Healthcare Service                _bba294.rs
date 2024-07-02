@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>footer_CURA Healthcare Service             _54f5c2</name>
+   <name>div_CURA Healthcare Service                _bba294</name>
    <tag></tag>
-   <elementGuidId>ba091e64-2354-4299-83d4-e066a841b73a</elementGuidId>
+   <elementGuidId>518b142d-a930-4e8f-bd03-5509055a4b07</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>footer</value>
+         <value>div.row</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::footer[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=contentinfo</value>
+         <value>div >> nth=2</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,8 +28,16 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>footer</value>
-      <webElementGuid>2b7ff359-49af-432e-9008-c114c665733d</webElementGuid>
+      <value>div</value>
+      <webElementGuid>cc67ac80-c054-4f41-b50c-6d6e829620b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>254d4c43-95cf-4197-a047-89859ce54cb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,8 +45,6 @@
       <name>text</name>
       <type>Main</type>
       <value>
-    
-        
             
                 CURA Healthcare Service
                 
@@ -63,52 +69,47 @@
                 
                 Copyright © CURA Healthcare Service 2024
             
-        
-    
-    
-</value>
-      <webElementGuid>34423cd3-8d09-4282-baa3-9f784906457d</webElementGuid>
+        </value>
+      <webElementGuid>ae8435a2-d0e3-482e-bc87-675f609c8572</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/footer[1]</value>
-      <webElementGuid>690b64e7-2a3d-4db3-8881-da52b3c9eef0</webElementGuid>
+      <value>/html[1]/body[1]/footer[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]</value>
+      <webElementGuid>52ed0c24-f1f1-4c2d-89fa-1f493b482e99</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::footer[1]</value>
-      <webElementGuid>469fa594-f4b7-4954-b70d-3693fd8a5aea</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::div[2]</value>
+      <webElementGuid>cc1817d0-a75d-4f30-904f-3822049ad2b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/following::footer[1]</value>
-      <webElementGuid>2571a8dc-c459-4d01-af72-48c3bef8eb6a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/following::div[2]</value>
+      <webElementGuid>31d66913-bf44-4647-9186-335ca754bf16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//footer</value>
-      <webElementGuid>140bc6a4-7d83-4817-be01-2dedd513afd1</webElementGuid>
+      <value>//div/div</value>
+      <webElementGuid>8c0ce738-f4e1-48e2-a81e-db6461d95ca3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//footer[(text() = '
-    
-        
+      <value>//div[(text() = '
             
                 CURA Healthcare Service
                 
@@ -133,12 +134,7 @@
                 
                 Copyright © CURA Healthcare Service 2024
             
-        
-    
-    
-' or . = '
-    
-        
+        ' or . = '
             
                 CURA Healthcare Service
                 
@@ -163,10 +159,7 @@
                 
                 Copyright © CURA Healthcare Service 2024
             
-        
-    
-    
-')]</value>
-      <webElementGuid>76dd0d03-3b5e-47a2-8f6c-746e1d6ed904</webElementGuid>
+        ')]</value>
+      <webElementGuid>9fa585cd-8ecc-4bda-b4f1-52c90626bf25</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>t3_click_homepage_button_and_login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>93e4b0e2-accb-4159-9010-f1e965ead37b</testCaseGuid>
+</TestCaseEntity>

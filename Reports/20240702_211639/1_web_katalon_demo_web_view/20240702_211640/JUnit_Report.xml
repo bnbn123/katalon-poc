@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="1_web_katalon_demo_web_view" time="90.284" tests="6" failures="0" errors="0">
+   <testsuite name="1_web_katalon_demo_web_view" tests="6" failures="0" errors="0" time="90.284" skipped="0" timestamp="02-07-2024T21:16:45" hostname="qHien - DESKTOP-U2IHECD" id="Test Suites/1_web_katalon_demo_web_view">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\qHien\\git\\katalon-poc\\Reports\\20240702_211639\\1_web_katalon_demo_web_view\\20240702_211640"/>
+         <property name="logFiles" value="C:\\Users\\qHien\\git\\katalon-poc\\Reports\\20240702_211639\\1_web_katalon_demo_web_view\\20240702_211640\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="qHien - DESKTOP-U2IHECD"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+         <property name="browser" value="Chrome 126.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.172"/>
+         <property name="sessionId" value="9a39c8726dc0de5ddbaca4aee5883f0a"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/WEB/T1_LoadPage" time="4.733" classname="Test Cases/WEB/T1_LoadPage" status="PASSED">
+         <system-out><![CDATA[02-07-2024T21:16:45 - [TEST_CASE][PASSED] - Test Cases/WEB/T1_LoadPage: Test Cases/WEB/T1_LoadPage
+
+02-07-2024T21:16:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T21:16:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T21:16:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T21:16:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T21:16:47 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+02-07-2024T21:16:49 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+02-07-2024T21:16:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service")): Object: 'Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service' is clicked on
+
+02-07-2024T21:16:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service' is clicked on
+
+02-07-2024T21:16:50 - [TEST_STEP][PASSED] - closeBrowser(STOP_ON_FAILURE): Browser is closed
+
+02-07-2024T21:16:50 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WEB/T2_on_homePage_scroll" time="5.934" classname="Test Cases/WEB/T2_on_homePage_scroll" status="PASSED">
+         <system-out><![CDATA[02-07-2024T21:16:50 - [TEST_CASE][PASSED] - Test Cases/WEB/T2_on_homePage_scroll: Test Cases/WEB/T2_on_homePage_scroll
+
+02-07-2024T21:16:50 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T21:16:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T21:16:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T21:16:50 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T21:16:50 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+02-07-2024T21:16:53 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+02-07-2024T21:16:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/div_CURA Healthcare Service        We Care _b17f12")): Object: 'Object Repository/Page_CURA Healthcare Service/div_CURA Healthcare Service        We Care _b17f12' is clicked on
+
+02-07-2024T21:16:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/div_CURA Healthcare Service        We Care _b17f12' is clicked on
+
+02-07-2024T21:16:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars")): Object: 'Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars' is clicked on
+
+02-07-2024T21:16:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars' is clicked on
+
+02-07-2024T21:16:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Home")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Home' is clicked on
+
+02-07-2024T21:16:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Home' is clicked on
+
+02-07-2024T21:16:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars")): Object: 'Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars' is clicked on
+
+02-07-2024T21:16:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars' is clicked on
+
+02-07-2024T21:16:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service")): Object: 'Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service' is clicked on
+
+02-07-2024T21:16:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service' is clicked on
+
+02-07-2024T21:16:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/h3_We Care About Your Health")): Object: 'Object Repository/Page_CURA Healthcare Service/h3_We Care About Your Health' is clicked on
+
+02-07-2024T21:16:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/h3_We Care About Your Health' is clicked on
+
+02-07-2024T21:16:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Copyright  CURA Healthcare Service 2024")): Object: 'Object Repository/Page_CURA Healthcare Service/p_Copyright  CURA Healthcare Service 2024' is clicked on
+
+02-07-2024T21:16:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_Copyright  CURA Healthcare Service 2024' is clicked on
+
+02-07-2024T21:16:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars")): Object: 'Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars' is clicked on
+
+02-07-2024T21:16:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars' is clicked on
+
+02-07-2024T21:16:56 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-07-2024T21:16:56 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WEB/t3_click_homepage_button_and_login" time="6.371" classname="Test Cases/WEB/t3_click_homepage_button_and_login" status="PASSED">
+         <system-out><![CDATA[02-07-2024T21:16:56 - [TEST_CASE][PASSED] - Test Cases/WEB/t3_click_homepage_button_and_login: Test Cases/WEB/t3_click_homepage_button_and_login
+
+02-07-2024T21:16:56 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T21:16:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T21:16:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T21:16:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T21:16:56 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+02-07-2024T21:17:00 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+02-07-2024T21:17:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Make Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+02-07-2024T21:17:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+02-07-2024T21:17:00 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Username_username"), "John Doe"): Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+02-07-2024T21:17:01 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+02-07-2024T21:17:01 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Password_password"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"): Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+02-07-2024T21:17:01 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+02-07-2024T21:17:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+02-07-2024T21:17:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WEB/t4_make_an_appointment" time="43.573" classname="Test Cases/WEB/t4_make_an_appointment" status="PASSED">
+         <system-out><![CDATA[02-07-2024T21:17:02 - [TEST_CASE][PASSED] - Test Cases/WEB/t4_make_an_appointment: Test Cases/WEB/t4_make_an_appointment
+
+02-07-2024T21:17:02 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T21:17:02 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+02-07-2024T21:17:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T21:17:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T21:17:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T21:17:03 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+02-07-2024T21:17:06 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+02-07-2024T21:17:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Make Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+02-07-2024T21:17:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+02-07-2024T21:17:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Username_username"), "John Doe"): Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+02-07-2024T21:17:07 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+02-07-2024T21:17:07 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Password_password"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"): Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+02-07-2024T21:17:07 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+02-07-2024T21:17:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+02-07-2024T21:17:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+02-07-2024T21:17:08 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107"), "Hongkong CURA Healthcare Center", true): All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'  using regular expression
+
+02-07-2024T21:17:09 - [MESSAGE][PASSED] - All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'  using regular expression
+
+02-07-2024T21:17:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f")): Object: 'Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f' is clicked on
+
+02-07-2024T21:17:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f' is clicked on
+
+02-07-2024T21:17:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date")): Object: 'Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date' is clicked on
+
+02-07-2024T21:17:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date' is clicked on
+
+02-07-2024T21:17:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/td_10")): Object: 'Object Repository/Page_CURA Healthcare Service/td_10' is clicked on
+
+02-07-2024T21:17:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/td_10' is clicked on
+
+02-07-2024T21:17:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/button_Book Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Book Appointment' is clicked on
+
+02-07-2024T21:17:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Book Appointment' is clicked on
+
+02-07-2024T21:17:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/h2_Appointment Confirmation")): Object: 'Object Repository/Page_CURA Healthcare Service/h2_Appointment Confirmation' is clicked on
+
+02-07-2024T21:17:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/h2_Appointment Confirmation' is clicked on
+
+02-07-2024T21:17:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Hongkong CURA Healthcare Center")): Object: 'Object Repository/Page_CURA Healthcare Service/p_Hongkong CURA Healthcare Center' is clicked on
+
+02-07-2024T21:17:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_Hongkong CURA Healthcare Center' is clicked on
+
+02-07-2024T21:17:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Yes")): Object: 'Object Repository/Page_CURA Healthcare Service/p_Yes' is clicked on
+
+02-07-2024T21:17:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_Yes' is clicked on
+
+02-07-2024T21:17:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Medicare")): Object: 'Object Repository/Page_CURA Healthcare Service/p_Medicare' is clicked on
+
+02-07-2024T21:17:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_Medicare' is clicked on
+
+02-07-2024T21:17:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/p_10072024")): Object: 'Object Repository/Page_CURA Healthcare Service/p_10072024' is clicked on
+
+02-07-2024T21:17:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_10072024' is clicked on
+
+02-07-2024T21:17:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Go to Homepage")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on
+
+02-07-2024T21:17:44 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //section[@id='history']/div/div[3]/p/a'. Please recheck the objects properties to make sure the desired element is located. 
+
+02-07-2024T21:17:44 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage'. Try using Self-healing.
+
+02-07-2024T21:17:44 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//section[@id='history']/div/div[3]/p/a'.
+
+02-07-2024T21:17:44 - [MESSAGE][INFO] - [SELF-HEALING] Working Locator: '//a[contains(text(),'Go to Homepage')]'.
+
+02-07-2024T21:17:44 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: C:/Users/qHien/git/katalon-poc/Reports/Self-healing/Object Repository/Page_CURA Healthcare Service/a_Go to Homepage_link.png
+
+02-07-2024T21:17:44 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' was broken. Propose an alternative one: '//a[contains(text(),'Go to Homepage')]'.
+
+02-07-2024T21:17:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on
+
+02-07-2024T21:17:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service")): Object: 'Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service' is clicked on
+
+02-07-2024T21:17:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service' is clicked on
+
+02-07-2024T21:17:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/h3_We Care About Your Health")): Object: 'Object Repository/Page_CURA Healthcare Service/h3_We Care About Your Health' is clicked on
+
+02-07-2024T21:17:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/h3_We Care About Your Health' is clicked on
+
+02-07-2024T21:17:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Copyright  CURA Healthcare Service 2024")): Object: 'Object Repository/Page_CURA Healthcare Service/p_Copyright  CURA Healthcare Service 2024' is clicked on
+
+02-07-2024T21:17:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_Copyright  CURA Healthcare Service 2024' is clicked on
+
+02-07-2024T21:17:46 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-07-2024T21:17:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WEB/T5_signout" time="11.463" classname="Test Cases/WEB/T5_signout" status="PASSED">
+         <system-out><![CDATA[02-07-2024T21:17:46 - [TEST_CASE][PASSED] - Test Cases/WEB/T5_signout: Test Cases/WEB/T5_signout
+
+02-07-2024T21:17:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T21:17:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T21:17:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T21:17:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T21:17:46 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+02-07-2024T21:17:49 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+02-07-2024T21:17:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars")): Object: 'Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars' is clicked on
+
+02-07-2024T21:17:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars' is clicked on
+
+02-07-2024T21:17:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Login' is clicked on
+
+02-07-2024T21:17:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Login' is clicked on
+
+02-07-2024T21:17:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Username_username"), "John Doe"): Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+02-07-2024T21:17:51 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+02-07-2024T21:17:51 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Password_password"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"): Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+02-07-2024T21:17:51 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+02-07-2024T21:17:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+02-07-2024T21:17:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+02-07-2024T21:17:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle")): Object: 'Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle' is clicked on
+
+02-07-2024T21:17:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle' is clicked on
+
+02-07-2024T21:17:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Logout")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Logout' is clicked on
+
+02-07-2024T21:17:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Logout' is clicked on
+
+02-07-2024T21:17:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service")): Object: 'Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service' is clicked on
+
+02-07-2024T21:17:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service' is clicked on
+
+02-07-2024T21:17:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/h3_We Care About Your Health")): Object: 'Object Repository/Page_CURA Healthcare Service/h3_We Care About Your Health' is clicked on
+
+02-07-2024T21:17:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/h3_We Care About Your Health' is clicked on
+
+02-07-2024T21:17:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/footer_CURA Healthcare Service             _54f5c2")): Object: 'Object Repository/Page_CURA Healthcare Service/footer_CURA Healthcare Service             _54f5c2' is clicked on
+
+02-07-2024T21:17:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/footer_CURA Healthcare Service             _54f5c2' is clicked on
+
+02-07-2024T21:17:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/h4_CURA Healthcare Service")): Object: 'Object Repository/Page_CURA Healthcare Service/h4_CURA Healthcare Service' is clicked on
+
+02-07-2024T21:17:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/h4_CURA Healthcare Service' is clicked on
+
+02-07-2024T21:17:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/div_CURA Healthcare Service                _bba294")): Object: 'Object Repository/Page_CURA Healthcare Service/div_CURA Healthcare Service                _bba294' is clicked on
+
+02-07-2024T21:17:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/div_CURA Healthcare Service                _bba294' is clicked on
+
+02-07-2024T21:17:54 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Page_CURA Healthcare Service/strong_CURA Healthcare Service")): Object: 'Object Repository/Page_CURA Healthcare Service/strong_CURA Healthcare Service' is double clicked on
+
+02-07-2024T21:17:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/strong_CURA Healthcare Service' is double clicked on
+
+02-07-2024T21:17:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/strong_CURA Healthcare Service")): Object: 'Object Repository/Page_CURA Healthcare Service/strong_CURA Healthcare Service' is clicked on
+
+02-07-2024T21:17:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/strong_CURA Healthcare Service' is clicked on
+
+02-07-2024T21:17:55 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85")): Object: 'Object Repository/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85' is double clicked on
+
+02-07-2024T21:17:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85' is double clicked on
+
+02-07-2024T21:17:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85")): Object: 'Object Repository/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85' is clicked on
+
+02-07-2024T21:17:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85' is clicked on
+
+02-07-2024T21:17:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85")): Object: 'Object Repository/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85' is clicked on
+
+02-07-2024T21:17:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85' is clicked on
+
+02-07-2024T21:17:56 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Copyright  CURA Healthcare Service 2024")): Object: 'Object Repository/Page_CURA Healthcare Service/p_Copyright  CURA Healthcare Service 2024' is double clicked on
+
+02-07-2024T21:17:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_Copyright  CURA Healthcare Service 2024' is double clicked on
+
+02-07-2024T21:17:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Copyright  CURA Healthcare Service 2024")): Object: 'Object Repository/Page_CURA Healthcare Service/p_Copyright  CURA Healthcare Service 2024' is clicked on
+
+02-07-2024T21:17:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_Copyright  CURA Healthcare Service 2024' is clicked on
+
+02-07-2024T21:17:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/div_CURA Healthcare Service                _bba294_1")): Object: 'Object Repository/Page_CURA Healthcare Service/div_CURA Healthcare Service                _bba294_1' is clicked on
+
+02-07-2024T21:17:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/div_CURA Healthcare Service                _bba294_1' is clicked on
+
+02-07-2024T21:17:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/ul_infokatalon.com_list-inline")): Object: 'Object Repository/Page_CURA Healthcare Service/ul_infokatalon.com_list-inline' is clicked on
+
+02-07-2024T21:17:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/ul_infokatalon.com_list-inline' is clicked on
+
+02-07-2024T21:17:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/html_CURA Healthcare Service               _2b5fdb")): Object: 'Object Repository/Page_CURA Healthcare Service/html_CURA Healthcare Service               _2b5fdb' is clicked on
+
+02-07-2024T21:17:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/html_CURA Healthcare Service               _2b5fdb' is clicked on
+
+02-07-2024T21:17:57 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-07-2024T21:17:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WEB/t6_view_history_logged_in" time="18.088" classname="Test Cases/WEB/t6_view_history_logged_in" status="PASSED">
+         <system-out><![CDATA[02-07-2024T21:17:57 - [TEST_CASE][PASSED] - Test Cases/WEB/t6_view_history_logged_in: Test Cases/WEB/t6_view_history_logged_in
+
+02-07-2024T21:17:57 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T21:17:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T21:17:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T21:17:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T21:17:58 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+02-07-2024T21:18:01 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+02-07-2024T21:18:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars")): Object: 'Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars' is clicked on
+
+02-07-2024T21:18:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars' is clicked on
+
+02-07-2024T21:18:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Login' is clicked on
+
+02-07-2024T21:18:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Login' is clicked on
+
+02-07-2024T21:18:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Username_username"), "John Doe"): Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+02-07-2024T21:18:02 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+02-07-2024T21:18:02 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Password_password"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"): Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+02-07-2024T21:18:02 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+02-07-2024T21:18:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+02-07-2024T21:18:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+02-07-2024T21:18:03 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107"), "Hongkong CURA Healthcare Center", true): All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'  using regular expression
+
+02-07-2024T21:18:04 - [MESSAGE][PASSED] - All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'  using regular expression
+
+02-07-2024T21:18:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/label_Apply for hospital readmission")): Object: 'Object Repository/Page_CURA Healthcare Service/label_Apply for hospital readmission' is clicked on
+
+02-07-2024T21:18:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/label_Apply for hospital readmission' is clicked on
+
+02-07-2024T21:18:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f")): Object: 'Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f' is clicked on
+
+02-07-2024T21:18:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f' is clicked on
+
+02-07-2024T21:18:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Medicaid_programs")): Object: 'Object Repository/Page_CURA Healthcare Service/input_Medicaid_programs' is clicked on
+
+02-07-2024T21:18:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_Medicaid_programs' is clicked on
+
+02-07-2024T21:18:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date"), "10/7/2024"): Text '10/7/2024' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date'
+
+02-07-2024T21:18:05 - [MESSAGE][PASSED] - Text '10/7/2024' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date'
+
+02-07-2024T21:18:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/button_Book Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Book Appointment' is clicked on
+
+02-07-2024T21:18:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Book Appointment' is clicked on
+
+02-07-2024T21:18:06 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/appointment.php#summary"): Navigate to 'https://katalon-demo-cura.herokuapp.com/appointment.php#summary' successfully
+
+02-07-2024T21:18:06 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/appointment.php#summary' successfully
+
+02-07-2024T21:18:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle")): Object: 'Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle' is clicked on
+
+02-07-2024T21:18:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle' is clicked on
+
+02-07-2024T21:18:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_History")): Object: 'Object Repository/Page_CURA Healthcare Service/a_History' is clicked on
+
+02-07-2024T21:18:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_History' is clicked on
+
+02-07-2024T21:18:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/h2_History")): Object: 'Object Repository/Page_CURA Healthcare Service/h2_History' is clicked on
+
+02-07-2024T21:18:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/h2_History' is clicked on
+
+02-07-2024T21:18:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/h2_History")): Object: 'Object Repository/Page_CURA Healthcare Service/h2_History' is clicked on
+
+02-07-2024T21:18:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/h2_History' is clicked on
+
+02-07-2024T21:18:08 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Page_CURA Healthcare Service/div_10072024")): Object: 'Object Repository/Page_CURA Healthcare Service/div_10072024' is double clicked on
+
+02-07-2024T21:18:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/div_10072024' is double clicked on
+
+02-07-2024T21:18:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/div_10072024")): Object: 'Object Repository/Page_CURA Healthcare Service/div_10072024' is clicked on
+
+02-07-2024T21:18:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/div_10072024' is clicked on
+
+02-07-2024T21:18:09 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Page_CURA Healthcare Service/label_Facility")): Object: 'Object Repository/Page_CURA Healthcare Service/label_Facility' is double clicked on
+
+02-07-2024T21:18:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/label_Facility' is double clicked on
+
+02-07-2024T21:18:09 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Hongkong CURA Healthcare Center")): Object: 'Object Repository/Page_CURA Healthcare Service/p_Hongkong CURA Healthcare Center' is double clicked on
+
+02-07-2024T21:18:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_Hongkong CURA Healthcare Center' is double clicked on
+
+02-07-2024T21:18:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Hongkong CURA Healthcare Center")): Object: 'Object Repository/Page_CURA Healthcare Service/p_Hongkong CURA Healthcare Center' is clicked on
+
+02-07-2024T21:18:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_Hongkong CURA Healthcare Center' is clicked on
+
+02-07-2024T21:18:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/label_Apply for hospital readmission_1")): Object: 'Object Repository/Page_CURA Healthcare Service/label_Apply for hospital readmission_1' is clicked on
+
+02-07-2024T21:18:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/label_Apply for hospital readmission_1' is clicked on
+
+02-07-2024T21:18:10 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Page_CURA Healthcare Service/p_No")): Object: 'Object Repository/Page_CURA Healthcare Service/p_No' is double clicked on
+
+02-07-2024T21:18:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_No' is double clicked on
+
+02-07-2024T21:18:10 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Page_CURA Healthcare Service/label_Apply for hospital readmission_1")): Object: 'Object Repository/Page_CURA Healthcare Service/label_Apply for hospital readmission_1' is double clicked on
+
+02-07-2024T21:18:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/label_Apply for hospital readmission_1' is double clicked on
+
+02-07-2024T21:18:11 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Page_CURA Healthcare Service/label_Apply for hospital readmission_1")): Object: 'Object Repository/Page_CURA Healthcare Service/label_Apply for hospital readmission_1' is double clicked on
+
+02-07-2024T21:18:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/label_Apply for hospital readmission_1' is double clicked on
+
+02-07-2024T21:18:11 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Page_CURA Healthcare Service/label_Healthcare Program")): Object: 'Object Repository/Page_CURA Healthcare Service/label_Healthcare Program' is double clicked on
+
+02-07-2024T21:18:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/label_Healthcare Program' is double clicked on
+
+02-07-2024T21:18:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/label_Healthcare Program")): Object: 'Object Repository/Page_CURA Healthcare Service/label_Healthcare Program' is clicked on
+
+02-07-2024T21:18:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/label_Healthcare Program' is clicked on
+
+02-07-2024T21:18:12 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Medicaid")): Object: 'Object Repository/Page_CURA Healthcare Service/p_Medicaid' is double clicked on
+
+02-07-2024T21:18:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_Medicaid' is double clicked on
+
+02-07-2024T21:18:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Medicaid")): Object: 'Object Repository/Page_CURA Healthcare Service/p_Medicaid' is clicked on
+
+02-07-2024T21:18:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_Medicaid' is clicked on
+
+02-07-2024T21:18:12 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Page_CURA Healthcare Service/label_Comment")): Object: 'Object Repository/Page_CURA Healthcare Service/label_Comment' is double clicked on
+
+02-07-2024T21:18:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/label_Comment' is double clicked on
+
+02-07-2024T21:18:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Go to Homepage")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on
+
+02-07-2024T21:18:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on
+
+02-07-2024T21:18:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle")): Object: 'Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle' is clicked on
+
+02-07-2024T21:18:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle' is clicked on
+
+02-07-2024T21:18:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Profile")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Profile' is clicked on
+
+02-07-2024T21:18:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Profile' is clicked on
+
+02-07-2024T21:18:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars")): Object: 'Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars' is clicked on
+
+02-07-2024T21:18:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars' is clicked on
+
+02-07-2024T21:18:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Logout")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Logout' is clicked on
+
+02-07-2024T21:18:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Logout' is clicked on
+
+02-07-2024T21:18:15 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-07-2024T21:18:15 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-07-2024T21:16:45 - [TEST_SUITE][PASSED] - 1_web_katalon_demo_web_view: Test Cases/WEB/t6_view_history_logged_in]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

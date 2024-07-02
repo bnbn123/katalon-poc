@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>t6_view_history_logged_in</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2346c198-f530-48d1-98dc-ca6e0a06dd86</testCaseGuid>
+</TestCaseEntity>
