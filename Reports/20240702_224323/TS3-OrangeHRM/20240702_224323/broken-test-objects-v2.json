@@ -8,7 +8,7 @@
       "proposedLocator": "internal:role\u003dlink \u003e\u003e nth\u003d3",
       "proposedLocatorMethod": "SMART_LOCATOR",
       "recoveryMethod": "SMART_LOCATOR",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_OrangeHRM/path_Login_st0_SMART_LOCATOR.png"
+      "pathToScreenshot": "Reports/20240702_224323/TS3-OrangeHRM/20240702_224323/Object Repository/Page_OrangeHRM/path_Login_st0_SMART_LOCATOR.png"
     }
   ]
 }

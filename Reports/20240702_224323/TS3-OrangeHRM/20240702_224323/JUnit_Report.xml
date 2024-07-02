@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS3-OrangeHRM" time="120.062" tests="10" failures="0" errors="0">
+   <testsuite name="TS3-OrangeHRM" tests="10" failures="0" errors="0" time="120.062" skipped="0" timestamp="02-07-2024T22:43:28" hostname="qHien - DESKTOP-U2IHECD" id="Test Suites/TS3-OrangeHRM">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\qHien\\git\\katalon-poc\\Reports\\20240702_224323\\TS3-OrangeHRM\\20240702_224323"/>
+         <property name="logFiles" value="C:\\Users\\qHien\\git\\katalon-poc\\Reports\\20240702_224323\\TS3-OrangeHRM\\20240702_224323\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="qHien - DESKTOP-U2IHECD"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+         <property name="browser" value="Chrome 126.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.172"/>
+         <property name="sessionId" value="5ea7c20958981024d8e7d2a2a80c0151"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Web/TC21-Export file" time="8.582" classname="Test Cases/Web/TC21-Export file" status="PASSED">
+         <system-out><![CDATA[02-07-2024T22:43:28 - [TEST_CASE][PASSED] - Test Cases/Web/TC21-Export file: Test Cases/Web/TC21-Export file
+
+02-07-2024T22:43:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T22:43:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T22:43:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T22:43:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T22:43:30 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:43:36 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:43:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_OrangeHRM/h5_Login")): Object 'Object Repository/Page_OrangeHRM/h5_Login' is visible
+
+02-07-2024T22:43:37 - [MESSAGE][PASSED] - Object 'Object Repository/Page_OrangeHRM/h5_Login' is visible
+
+02-07-2024T22:43:37 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-07-2024T22:43:37 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC22-check button" time="13.862" classname="Test Cases/Web/TC22-check button" status="PASSED">
+         <system-out><![CDATA[02-07-2024T22:43:37 - [TEST_CASE][PASSED] - Test Cases/Web/TC22-check button: Test Cases/Web/TC22-check button
+
+02-07-2024T22:43:37 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T22:43:37 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T22:43:37 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T22:43:37 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T22:43:37 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:43:50 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:43:50 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_OrangeHRM/div_Username  AdminPassword  admin123")): Object 'Object Repository/Page_OrangeHRM/div_Username  AdminPassword  admin123' is visible
+
+02-07-2024T22:43:50 - [MESSAGE][PASSED] - Object 'Object Repository/Page_OrangeHRM/div_Username  AdminPassword  admin123' is visible
+
+02-07-2024T22:43:50 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-07-2024T22:43:51 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC23-new check" time="7.715" classname="Test Cases/Web/TC23-new check" status="PASSED">
+         <system-out><![CDATA[02-07-2024T22:43:51 - [TEST_CASE][PASSED] - Test Cases/Web/TC23-new check: Test Cases/Web/TC23-new check
+
+02-07-2024T22:43:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T22:43:51 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T22:43:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T22:43:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T22:43:51 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:43:57 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:43:57 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_OrangeHRM/label_Username")): Object 'Object Repository/Page_OrangeHRM/label_Username' is visible
+
+02-07-2024T22:43:58 - [MESSAGE][PASSED] - Object 'Object Repository/Page_OrangeHRM/label_Username' is visible
+
+02-07-2024T22:43:58 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-07-2024T22:43:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC24-check txt" time="6.877" classname="Test Cases/Web/TC24-check txt" status="PASSED">
+         <system-out><![CDATA[02-07-2024T22:43:58 - [TEST_CASE][PASSED] - Test Cases/Web/TC24-check txt: Test Cases/Web/TC24-check txt
+
+02-07-2024T22:43:58 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T22:43:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T22:43:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T22:43:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T22:43:59 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:44:04 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:44:04 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_OrangeHRM/input_Username_username")): Object 'Object Repository/Page_OrangeHRM/input_Username_username' is visible
+
+02-07-2024T22:44:05 - [MESSAGE][PASSED] - Object 'Object Repository/Page_OrangeHRM/input_Username_username' is visible
+
+02-07-2024T22:44:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-07-2024T22:44:05 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC25-check influence" time="6.053" classname="Test Cases/Web/TC25-check influence" status="PASSED">
+         <system-out><![CDATA[02-07-2024T22:44:05 - [TEST_CASE][PASSED] - Test Cases/Web/TC25-check influence: Test Cases/Web/TC25-check influence
+
+02-07-2024T22:44:05 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T22:44:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T22:44:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T22:44:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T22:44:06 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:44:10 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:44:10 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_OrangeHRM/label_Password")): Object 'Object Repository/Page_OrangeHRM/label_Password' is visible
+
+02-07-2024T22:44:11 - [MESSAGE][PASSED] - Object 'Object Repository/Page_OrangeHRM/label_Password' is visible
+
+02-07-2024T22:44:11 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-07-2024T22:44:11 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC26-check owner" time="7.556" classname="Test Cases/Web/TC26-check owner" status="PASSED">
+         <system-out><![CDATA[02-07-2024T22:44:11 - [TEST_CASE][PASSED] - Test Cases/Web/TC26-check owner: Test Cases/Web/TC26-check owner
+
+02-07-2024T22:44:11 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T22:44:11 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T22:44:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T22:44:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T22:44:12 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:44:18 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:44:18 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_OrangeHRM/button_Login")): Object 'Object Repository/Page_OrangeHRM/button_Login' is visible
+
+02-07-2024T22:44:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_OrangeHRM/button_Login' is visible
+
+02-07-2024T22:44:19 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-07-2024T22:44:19 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC28-check add" time="13.734" classname="Test Cases/Web/TC28-check add" status="PASSED">
+         <system-out><![CDATA[02-07-2024T22:44:19 - [TEST_CASE][PASSED] - Test Cases/Web/TC28-check add: Test Cases/Web/TC28-check add
+
+02-07-2024T22:44:19 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T22:44:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T22:44:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T22:44:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T22:44:19 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:44:31 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:44:31 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_OrangeHRM/p_Forgot your password")): Object 'Object Repository/Page_OrangeHRM/p_Forgot your password' is visible
+
+02-07-2024T22:44:32 - [MESSAGE][PASSED] - Object 'Object Repository/Page_OrangeHRM/p_Forgot your password' is visible
+
+02-07-2024T22:44:32 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-07-2024T22:44:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC27-More Include" time="7.437" classname="Test Cases/Web/TC27-More Include" status="PASSED">
+         <system-out><![CDATA[02-07-2024T22:44:32 - [TEST_CASE][PASSED] - Test Cases/Web/TC27-More Include: Test Cases/Web/TC27-More Include
+
+02-07-2024T22:44:33 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T22:44:33 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T22:44:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T22:44:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T22:44:33 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:44:39 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:44:39 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_OrangeHRM/p_OrangeHRM OS 5.6.1")): Object 'Object Repository/Page_OrangeHRM/p_OrangeHRM OS 5.6.1' is visible
+
+02-07-2024T22:44:40 - [MESSAGE][PASSED] - Object 'Object Repository/Page_OrangeHRM/p_OrangeHRM OS 5.6.1' is visible
+
+02-07-2024T22:44:40 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-07-2024T22:44:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC29-More check about user" time="7.364" classname="Test Cases/Web/TC29-More check about user" status="PASSED">
+         <system-out><![CDATA[02-07-2024T22:44:40 - [TEST_CASE][PASSED] - Test Cases/Web/TC29-More check about user: Test Cases/Web/TC29-More check about user
+
+02-07-2024T22:44:40 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T22:44:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T22:44:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T22:44:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T22:44:41 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:44:46 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:44:46 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_OrangeHRM/p_2005 - 2024 OrangeHRM, Inc. All rights reserved")): Object 'Object Repository/Page_OrangeHRM/p_2005 - 2024 OrangeHRM, Inc. All rights reserved' is visible
+
+02-07-2024T22:44:47 - [MESSAGE][PASSED] - Object 'Object Repository/Page_OrangeHRM/p_2005 - 2024 OrangeHRM, Inc. All rights reserved' is visible
+
+02-07-2024T22:44:47 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-07-2024T22:44:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Web/TC30-Multiple check" time="40.75" classname="Test Cases/Web/TC30-Multiple check" status="PASSED">
+         <system-out><![CDATA[02-07-2024T22:44:47 - [TEST_CASE][PASSED] - Test Cases/Web/TC30-Multiple check: Test Cases/Web/TC30-Multiple check
+
+02-07-2024T22:44:47 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T22:44:47 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T22:44:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T22:44:48 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T22:44:48 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:44:56 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+02-07-2024T22:44:56 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_OrangeHRM/path_Login_st0")): Object 'Object Repository/Page_OrangeHRM/path_Login_st0' is visible
+
+02-07-2024T22:45:27 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: '. Please recheck the objects properties to make sure the desired element is located. 
+
+02-07-2024T22:45:27 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_OrangeHRM/path_Login_st0'. Try using Self-healing.
+
+02-07-2024T22:45:28 - [MESSAGE][INFO] - [SELF-HEALING] No working XPath is found.
+
+02-07-2024T22:45:28 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: C:/Users/qHien/git/katalon-poc/Reports/Self-healing/Object Repository/Page_OrangeHRM/path_Login_st0_SMART_LOCATOR.png
+
+02-07-2024T22:45:28 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_OrangeHRM/path_Login_st0' was broken. Propose an alternative one: 'internal:role=link >> nth=3'.
+
+02-07-2024T22:45:28 - [MESSAGE][PASSED] - Object 'Object Repository/Page_OrangeHRM/path_Login_st0' is visible
+
+02-07-2024T22:45:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-07-2024T22:45:28 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-07-2024T22:43:28 - [TEST_SUITE][PASSED] - TS3-OrangeHRM: Test Cases/Web/TC30-Multiple check]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

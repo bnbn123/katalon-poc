@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS2" time="9.721" tests="2" failures="0" errors="0">
+   <testsuite name="TS2" tests="2" failures="0" errors="0" time="9.721" skipped="0" timestamp="02-07-2024T22:41:33" hostname="qHien - DESKTOP-U2IHECD" id="Test Suites/TS2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\qHien\\git\\katalon-poc\\Reports\\20240702_224047\\TS2\\20240702_224050"/>
+         <property name="logFiles" value="C:\\Users\\qHien\\git\\katalon-poc\\Reports\\20240702_224047\\TS2\\20240702_224050\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="qHien - DESKTOP-U2IHECD"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+         <property name="browser" value="Chrome 126.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.172"/>
+         <property name="sessionId" value="8a6be4a8d65aa30362166e71a4eb61fa"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC06" time="5.315" classname="Test Cases/TC06" status="PASSED">
+         <system-out><![CDATA[02-07-2024T22:41:33 - [TEST_CASE][PASSED] - Test Cases/TC06: Test Cases/TC06
+
+02-07-2024T22:41:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T22:41:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T22:41:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T22:41:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T22:41:35 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+02-07-2024T22:41:38 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+02-07-2024T22:41:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/i_infokatalon.com_fa fa-facebook fa-fw fa-3x")): Object: 'Object Repository/Page_CURA Healthcare Service/i_infokatalon.com_fa fa-facebook fa-fw fa-3x' is clicked on
+
+02-07-2024T22:41:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/i_infokatalon.com_fa fa-facebook fa-fw fa-3x' is clicked on
+
+02-07-2024T22:41:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/i_infokatalon.com_fa fa-facebook fa-fw fa-3x")): Object: 'Object Repository/Page_CURA Healthcare Service/i_infokatalon.com_fa fa-facebook fa-fw fa-3x' is clicked on
+
+02-07-2024T22:41:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/i_infokatalon.com_fa fa-facebook fa-fw fa-3x' is clicked on
+
+02-07-2024T22:41:38 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle")): Object 'Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle' is clickable
+
+02-07-2024T22:41:39 - [MESSAGE][PASSED] - Object 'Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle' is clickable
+
+02-07-2024T22:41:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-07-2024T22:41:39 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC07" time="4.293" classname="Test Cases/TC07" status="PASSED">
+         <system-out><![CDATA[02-07-2024T22:41:39 - [TEST_CASE][PASSED] - Test Cases/TC07: Test Cases/TC07
+
+02-07-2024T22:41:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-07-2024T22:41:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-07-2024T22:41:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-07-2024T22:41:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-07-2024T22:41:39 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+02-07-2024T22:41:42 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+02-07-2024T22:41:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85")): Object: 'Object Repository/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85' is clicked on
+
+02-07-2024T22:41:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85' is clicked on
+
+02-07-2024T22:41:43 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85")): Object 'Object Repository/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85' is visible
+
+02-07-2024T22:41:43 - [MESSAGE][PASSED] - Object 'Object Repository/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85' is visible
+
+02-07-2024T22:41:43 - [TEST_STEP][PASSED] - closeBrowser(STOP_ON_FAILURE): Browser is closed
+
+02-07-2024T22:41:43 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-07-2024T22:41:33 - [TEST_SUITE][PASSED] - TS2: Test Cases/TC07]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
