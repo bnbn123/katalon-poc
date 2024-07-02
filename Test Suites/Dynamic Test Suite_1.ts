@@ -14,5 +14,5 @@
    <filteringBuiltIn>com.kms.katalon.execution.platform.DynamicBuiltInSearch</filteringBuiltIn>
    <filteringExtension></filteringExtension>
    <filteringPlugin></filteringPlugin>
-   <filteringText>name=(DDT_1) id=(Test Cases/DDT_1) </filteringText>
+   <filteringText>id=(Test Cases/DDT) </filteringText>
 </FilteringTestSuiteEntity>
