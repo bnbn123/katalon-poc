@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Get the app__aa5q</name>
+   <tag></tag>
+   <elementGuidId>f89df0ce-aca8-4a20-b69d-9581f1dd915e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_Cw']/div/div/div[2]/div/div/div/section/main/article/div[2]/div[3]/div[2]/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img._aa5q</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Get it on Google Play&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a1d8f0c6-9986-4317-a624-4a891da870c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Get it on Google Play</value>
+      <webElementGuid>44376e9e-aed4-4fa4-9716-fffa6ca03905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_aa5q</value>
+      <webElementGuid>09f1a139-8d04-4743-9e0f-4acf1a2b098a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://static.cdninstagram.com/rsrc.php/v3/yz/r/c5Rp7Ym-Klz.png</value>
+      <webElementGuid>99346cf9-800d-4ade-8164-b0099c2fb45d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_Cw&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1t2pt76 x1n2onr6 x1ja2u2z x10cihs4&quot;]/section[@class=&quot;x78zum5 xdt5ytf x1iyjqo2 xg6iff7&quot;]/main[@class=&quot;xvbhtw8 x78zum5 xdt5ytf x1iyjqo2 x182iqb8&quot;]/article[@class=&quot;x1qjc9v5 x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x78zum5 x1q0g3np x1iyjqo2 x2lah0s xk390pu xl56j7k xg87l8a xkrivgy xat24cr x1gryazu x1ykew4q xexx8yu x4uap5 x1gan7if xkhd6sd x11njtxf xh8yej3 x1d2lwc3&quot;]/div[@class=&quot;_ab1y&quot;]/div[@class=&quot;x78zum5 xdt5ytf&quot;]/div[@class=&quot;_aa4v&quot;]/a[@class=&quot;x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _aa5s _a6hd&quot;]/img[@class=&quot;_aa5q&quot;]</value>
+      <webElementGuid>bd0ad444-0e07-4895-9a87-489beceaa536</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_Cw']/div/div/div[2]/div/div/div/section/main/article/div[2]/div[3]/div[2]/a/img</value>
+      <webElementGuid>f5fc7fba-2e79-4367-a488-beb09139ec1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Get it on Google Play']</value>
+      <webElementGuid>099a5d3b-a390-4050-aa73-a35a6f8ca249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/img</value>
+      <webElementGuid>50b2a35d-7a35-4e55-be46-851c77a17329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Get it on Google Play' and @src = 'https://static.cdninstagram.com/rsrc.php/v3/yz/r/c5Rp7Ym-Klz.png']</value>
+      <webElementGuid>64fb7bb4-4d9a-4400-b3c8-6e48c2d4a9d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

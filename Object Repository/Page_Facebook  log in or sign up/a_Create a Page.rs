@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create a Page</name>
+   <tag></tag>
+   <elementGuidId>cbf74161-af84-4114-b18f-590542a7c36b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='reg_pages_msg']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a._8esh</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Create a Page&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a4d28db8-be92-40d4-8a75-e474cb62090e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/pages/create/?ref_type=registration_form</value>
+      <webElementGuid>4344a77f-1c3e-4122-b3bc-5973d6d113bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_8esh</value>
+      <webElementGuid>0ae3de76-d573-4506-9b7c-ca9492549cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create a Page</value>
+      <webElementGuid>77057c37-65f4-46c2-ab7c-d5a4c14cd155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reg_pages_msg&quot;)/a[@class=&quot;_8esh&quot;]</value>
+      <webElementGuid>62dd97e2-6fa2-4293-849b-80950d80b85b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='reg_pages_msg']/a</value>
+      <webElementGuid>6b3576a4-cbef-4e30-b5ad-f2895e4b3a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create a Page')]</value>
+      <webElementGuid>4da232bb-fd9a-455e-ba7c-b9c7d6900716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgotten password?'])[1]/following::a[2]</value>
+      <webElementGuid>18d423ac-de7e-42b3-a53a-b225f6f28245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English (UK)'])[1]/preceding::a[1]</value>
+      <webElementGuid>34c76291-775c-4f2e-9385-7a4646ba398b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếng Việt'])[1]/preceding::a[1]</value>
+      <webElementGuid>f7a8b06c-6ecf-4933-939c-dd5ae01bc40e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create a Page']/parent::*</value>
+      <webElementGuid>663670bc-c0d7-49ef-977b-83e608e7928e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/pages/create/?ref_type=registration_form')]</value>
+      <webElementGuid>fc96c60e-94a1-444c-94e8-57aad6eabaf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>5ad8c232-eef1-49aa-ba9f-b6bd5ddcad58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/pages/create/?ref_type=registration_form' and (text() = 'Create a Page' or . = 'Create a Page')]</value>
+      <webElementGuid>ae2e1cd4-2b42-4a16-8f6f-d603654c6310</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

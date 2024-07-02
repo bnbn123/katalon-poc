@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>article_Phone number, username, or emailPas_688cb2</name>
+   <tag></tag>
+   <elementGuidId>20684269-9484-412d-9ba5-34c2148e007f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_i8']/div/div/div[2]/div/div/div/section/main/article</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>article.x1qjc9v5.x972fbf.xcfux6l.x1qhh985.xm0m39n.x9f619.x78zum5.x1q0g3np.x1iyjqo2.x2lah0s.xk390pu.xl56j7k.xg87l8a.xkrivgy.xat24cr.x1gryazu.x1ykew4q.xexx8yu.x4uap5.x1gan7if.xkhd6sd.x11njtxf.xh8yej3.x1d2lwc3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=article</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>article</value>
+      <webElementGuid>9b6f6d25-351e-4b35-86a5-a7d71d03573e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x1qjc9v5 x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x78zum5 x1q0g3np x1iyjqo2 x2lah0s xk390pu xl56j7k xg87l8a xkrivgy xat24cr x1gryazu x1ykew4q xexx8yu x4uap5 x1gan7if xkhd6sd x11njtxf xh8yej3 x1d2lwc3</value>
+      <webElementGuid>2b282152-9de5-4b26-a227-1061817bd9d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Phone number, username, or emailPasswordLog inorLog in with FacebookForgot password?Don't have an account? Sign upGet the app.</value>
+      <webElementGuid>1c61a985-f2d8-46ae-a39b-d563b0d0b77d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_i8&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1t2pt76 x1n2onr6 x1ja2u2z x10cihs4&quot;]/section[@class=&quot;x78zum5 xdt5ytf x1iyjqo2 xg6iff7&quot;]/main[@class=&quot;xvbhtw8 x78zum5 xdt5ytf x1iyjqo2 x182iqb8&quot;]/article[@class=&quot;x1qjc9v5 x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x78zum5 x1q0g3np x1iyjqo2 x2lah0s xk390pu xl56j7k xg87l8a xkrivgy xat24cr x1gryazu x1ykew4q xexx8yu x4uap5 x1gan7if xkhd6sd x11njtxf xh8yej3 x1d2lwc3&quot;]</value>
+      <webElementGuid>6a96613c-bcde-4bc9-86a9-cd5b7506e922</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_i8']/div/div/div[2]/div/div/div/section/main/article</value>
+      <webElementGuid>8541011d-0ac1-4acb-8bd7-7a8a3bd036e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article</value>
+      <webElementGuid>efe00221-8640-4da3-b899-9ab9a1f381e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//article[(text() = concat(&quot;Phone number, username, or emailPasswordLog inorLog in with FacebookForgot password?Don&quot; , &quot;'&quot; , &quot;t have an account? Sign upGet the app.&quot;) or . = concat(&quot;Phone number, username, or emailPasswordLog inorLog in with FacebookForgot password?Don&quot; , &quot;'&quot; , &quot;t have an account? Sign upGet the app.&quot;))]</value>
+      <webElementGuid>16610dab-1c92-463e-a7f9-7eeb671f55f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -3,15 +3,15 @@
    <description></description>
    <name>h3_We Care About Your Health</name>
    <tag></tag>
-   <elementGuidId>d08f975d-9324-48c2-8b46-180b8c24230f</elementGuidId>
+   <elementGuidId>04524f1b-8e6d-4814-9cb3-4423b4a96012</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>h3</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//header[@id='top']/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h3</value>
-      <webElementGuid>a21828d9-ecf1-4836-9839-41d6317631d0</webElementGuid>
+      <webElementGuid>b4976e5b-7bb8-4d3b-a866-c33de4ee9224</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>We Care About Your Health</value>
-      <webElementGuid>b42d8080-6f54-423d-9ec8-dc4852ba9b78</webElementGuid>
+      <webElementGuid>1a503dda-7222-4e80-90eb-8de2645cbf74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;top&quot;)/div[@class=&quot;text-vertical-center&quot;]/h3[1]</value>
-      <webElementGuid>b7d2d269-a4be-463e-a098-c121ae0776ae</webElementGuid>
+      <webElementGuid>a6b0ae67-dbd6-40c4-9a86-3c769a6fa451</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//header[@id='top']/div/h3</value>
-      <webElementGuid>22a5410c-5da4-49f4-a591-0b2e5d670297</webElementGuid>
+      <webElementGuid>57f61c6c-6b17-4d33-a3e8-5dfe83a58833</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[2]/following::h3[1]</value>
-      <webElementGuid>0812710b-22ca-4991-bb6c-e621a2e661ad</webElementGuid>
+      <webElementGuid>4dd6afc7-fdec-40a5-a78a-d3856d35e86b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::h3[1]</value>
-      <webElementGuid>29f10a31-9bf8-4194-a19c-af077e6b94f1</webElementGuid>
+      <webElementGuid>2e1309c0-6f53-48ff-8fba-4b3cef6e0a3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/preceding::h3[1]</value>
-      <webElementGuid>21f27891-ce6a-4c3b-8458-104572433186</webElementGuid>
+      <webElementGuid>92d79a05-bcde-4822-b6f9-bdbbb51db1e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[3]/preceding::h3[1]</value>
-      <webElementGuid>b0ba1bc2-327a-4cc6-bc36-42d558d69ac6</webElementGuid>
+      <webElementGuid>aadc32ae-c98c-4125-a200-9845243ffe74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='We Care About Your Health']/parent::*</value>
-      <webElementGuid>08323d62-eabb-45ec-ad6b-c8ba2040a806</webElementGuid>
+      <webElementGuid>9b7635c5-716e-4c1a-90f4-ac09fd0b103d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h3</value>
-      <webElementGuid>869d5348-c799-4e1e-b5df-efa8813983e1</webElementGuid>
+      <webElementGuid>1c914501-3e0f-48df-b5f0-ede0532666f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,22 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h3[(text() = 'We Care About Your Health' or . = 'We Care About Your Health')]</value>
-      <webElementGuid>4bc64d8f-04fb-437d-8742-27786a785b01</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::h3[1]</value>
-      <webElementGuid>1d4ee671-468b-45e3-9a17-99b76ec77e88</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[2]/preceding::h3[1]</value>
-      <webElementGuid>c3d02cbb-fc9f-4a88-ba6d-7f6c727cd76c</webElementGuid>
+      <webElementGuid>a06f2b86-d3ed-4b83-a933-f1806fec8f4d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

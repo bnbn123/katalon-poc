@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MetaAboutBlogJobsHelpAPIPrivacyTermsLoc_7bba1b</name>
+   <tag></tag>
+   <elementGuidId>eea91ff9-b2a6-4911-82c2-254957bfc41c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_cn']/div/div/div[2]/div/div/div/section/div/footer/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.x9f619.xjbqb8w.x78zum5.x168nmei.x13lgxp2.x5pf9jr.xo71vjh.x5u0ere.x1n2onr6.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.xdt5ytf.xqjyukv.x1qjc9v5.x1oa3qoh.x1nhvcw1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=contentinfo >> div >> internal:has-text=&quot;MetaAboutBlogJobsHelpAPIPrivacyTermsLocationsInstagram LiteThreadsContact Upload&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>38b64b6f-9fbc-4074-8cbe-e8cee5b21429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x5u0ere x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1</value>
+      <webElementGuid>db5ffaf6-4cb1-4c2f-b6b3-623caff96d2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MetaAboutBlogJobsHelpAPIPrivacyTermsLocationsInstagram LiteThreadsContact Uploading &amp; Non-UsersMeta VerifiedEnglishDown chevron iconAfrikaansالعربيةČeštinaDanskDeutschΕλληνικάEnglishEnglish (UK)Español (España)EspañolفارسیSuomiFrançaisעבריתBahasa IndonesiaItaliano日本語한국어Bahasa MelayuNorskNederlandsPolskiPortuguês (Brasil)Português (Portugal)РусскийSvenskaภาษาไทยFilipinoTürkçe中文(简体)中文(台灣)বাংলাગુજરાતીहिन्दीHrvatskiMagyarಕನ್ನಡമലയാളംमराठीनेपालीਪੰਜਾਬੀසිංහලSlovenčinaதமிழ்తెలుగుاردوTiếng Việt中文(香港)БългарскиFrançais (Canada)RomânăСрпскиУкраїнська© 2024 Instagram from Meta</value>
+      <webElementGuid>8e0c1330-835a-4c1f-915b-d809cc79dda7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_cn&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1t2pt76 x1n2onr6 x1ja2u2z x10cihs4&quot;]/section[@class=&quot;x78zum5 xdt5ytf x1iyjqo2 xg6iff7&quot;]/div[1]/footer[@class=&quot;x1qjc9v5 x9f619 x78zum5 xdt5ytf x2lah0s xk390pu xdj266r x11i5rnm xat24cr x1mh8g0r x1h3rv7z xexx8yu x18d9i69 x1n2onr6 x11njtxf x1pi30zi x1swvt13 xvbhtw8&quot;]/div[@class=&quot;x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x5u0ere x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1&quot;]</value>
+      <webElementGuid>383993ab-ffb7-4b69-a21a-0208ade1fd80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_cn']/div/div/div[2]/div/div/div/section/div/footer/div</value>
+      <webElementGuid>db5012cd-b4bb-49e0-b331-0ff6e934edc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get the app.'])[1]/following::div[3]</value>
+      <webElementGuid>3b68b789-d127-40d2-9ea4-95e13add8184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/following::div[5]</value>
+      <webElementGuid>8c7ec5e2-150a-4325-859f-bc8ccc83461f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div</value>
+      <webElementGuid>87c3339d-c014-4e8b-9c3a-c4243fd2a455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MetaAboutBlogJobsHelpAPIPrivacyTermsLocationsInstagram LiteThreadsContact Uploading &amp; Non-UsersMeta VerifiedEnglishDown chevron iconAfrikaansالعربيةČeštinaDanskDeutschΕλληνικάEnglishEnglish (UK)Español (España)EspañolفارسیSuomiFrançaisעבריתBahasa IndonesiaItaliano日本語한국어Bahasa MelayuNorskNederlandsPolskiPortuguês (Brasil)Português (Portugal)РусскийSvenskaภาษาไทยFilipinoTürkçe中文(简体)中文(台灣)বাংলাગુજરાતીहिन्दीHrvatskiMagyarಕನ್ನಡമലയാളംमराठीनेपालीਪੰਜਾਬੀසිංහලSlovenčinaதமிழ்తెలుగుاردوTiếng Việt中文(香港)БългарскиFrançais (Canada)RomânăСрпскиУкраїнська© 2024 Instagram from Meta' or . = 'MetaAboutBlogJobsHelpAPIPrivacyTermsLocationsInstagram LiteThreadsContact Uploading &amp; Non-UsersMeta VerifiedEnglishDown chevron iconAfrikaansالعربيةČeštinaDanskDeutschΕλληνικάEnglishEnglish (UK)Español (España)EspañolفارسیSuomiFrançaisעבריתBahasa IndonesiaItaliano日本語한국어Bahasa MelayuNorskNederlandsPolskiPortuguês (Brasil)Português (Portugal)РусскийSvenskaภาษาไทยFilipinoTürkçe中文(简体)中文(台灣)বাংলাગુજરાતીहिन्दीHrvatskiMagyarಕನ್ನಡമലയാളംमराठीनेपालीਪੰਜਾਬੀසිංහලSlovenčinaதமிழ்తెలుగుاردوTiếng Việt中文(香港)БългарскиFrançais (Canada)RomânăСрпскиУкраїнська© 2024 Instagram from Meta')]</value>
+      <webElementGuid>31048fe1-f799-4713-b120-eeefd3010303</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

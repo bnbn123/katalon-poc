@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Dont have an account Sign up</name>
+   <tag></tag>
+   <elementGuidId>6efea7dc-8a12-4198-b6f8-451c2c1730f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_km']/div/div/div[2]/div/div/div/section/main/article/div[2]/div[2]/span/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p._ab25</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Don't have an account? Sign up&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>459c52a6-bd85-4049-b88f-f4148c94115d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_ab25</value>
+      <webElementGuid>de022bf1-b14d-419d-906d-e5d24e7a546a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Don't have an account? Sign up</value>
+      <webElementGuid>01b0dbbe-90ff-4980-ae89-88c9901817a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_km&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1t2pt76 x1n2onr6 x1ja2u2z x10cihs4&quot;]/section[@class=&quot;x78zum5 xdt5ytf x1iyjqo2 xg6iff7&quot;]/main[@class=&quot;xvbhtw8 x78zum5 xdt5ytf x1iyjqo2 x182iqb8&quot;]/article[@class=&quot;x1qjc9v5 x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x78zum5 x1q0g3np x1iyjqo2 x2lah0s xk390pu xl56j7k xg87l8a xkrivgy xat24cr x1gryazu x1ykew4q xexx8yu x4uap5 x1gan7if xkhd6sd x11njtxf xh8yej3 x1d2lwc3&quot;]/div[@class=&quot;_ab1y&quot;]/div[@class=&quot;_ab21&quot;]/span[@class=&quot;x1lliihq x1plvlek xryxfnj x1n2onr6 x193iq5w xeuugli x1fj9vlw x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x x1i0vuye xvs91rp xo1l8bm x1roi4f4 x1tu3fi x3x7a5m x10wh9bi x1wdrske x8viiok x18hxmgj&quot;]/p[@class=&quot;_ab25&quot;]</value>
+      <webElementGuid>578e75b5-0aeb-45c9-9316-4cf9888145d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_km']/div/div/div[2]/div/div/div/section/main/article/div[2]/div[2]/span/p</value>
+      <webElementGuid>a29a77f7-ef1d-4e12-863b-86a1c0a2087d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::p[1]</value>
+      <webElementGuid>eb4d5be7-7b76-42dc-9aba-38c52c027ed4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in with Facebook'])[1]/following::p[1]</value>
+      <webElementGuid>3d288de7-ccc5-4f80-9146-50bd4a8a164d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get the app.'])[1]/preceding::p[1]</value>
+      <webElementGuid>9cb24d59-4999-4e76-844f-bc79c4dea3cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>6ec04255-c842-4179-9307-1fe14eaec970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;Don&quot; , &quot;'&quot; , &quot;t have an account? Sign up&quot;) or . = concat(&quot;Don&quot; , &quot;'&quot; , &quot;t have an account? Sign up&quot;))]</value>
+      <webElementGuid>b5b07ba2-0a58-444e-9d0e-52af9397dd67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

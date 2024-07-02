@@ -6,12 +6,11 @@
    <elementGuidId>9246aaff-2287-44d4-9558-126c4ebb9010</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Program'])[1]/following::label[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//section[@id='history']/div/div[2]/div/div/div[2]/div[10]/label</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

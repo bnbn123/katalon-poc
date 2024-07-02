@@ -6,12 +6,12 @@
    <elementGuidId>57403436-c7b4-4b01-b570-b1a292984307</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.btn.btn-default</value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Go to Homepage')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//section[@id='history']/div/div[3]/p/a</value>
+         <key>CSS</key>
+         <value>a.btn.btn-default</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

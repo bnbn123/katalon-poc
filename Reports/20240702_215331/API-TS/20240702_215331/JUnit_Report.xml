@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="API-TS" time="1.606" tests="1" failures="0" errors="0">
+   <testsuite name="API-TS" tests="1" failures="0" errors="0" time="1.606" skipped="0" timestamp="02-07-2024T21:53:36" hostname="qHien - DESKTOP-U2IHECD" id="Test Suites/API-TS">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\qHien\\git\\katalon-poc\\Reports\\20240702_215331\\API-TS\\20240702_215331"/>
+         <property name="logFiles" value="C:\\Users\\qHien\\git\\katalon-poc\\Reports\\20240702_215331\\API-TS\\20240702_215331\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="qHien - DESKTOP-U2IHECD"/>
+         <property name="hostAddress" value="192.168.0.172"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+      </properties>
+      <testcase name="Test Cases/API/API01" time="1.501" classname="Test Cases/API/API01" status="PASSED">
+         <system-out><![CDATA[02-07-2024T21:53:36 - [TEST_CASE][PASSED] - Test Cases/API/API01: Test Cases/API/API01
+
+02-07-2024T21:53:37 - [TEST_STEP][PASSED] - sendRequest(findTestObject("API/Get User")): Send request successfully
+
+02-07-2024T21:53:38 - [MESSAGE][INFO] - HAR: C:\Users\qHien\git\katalon-poc\Reports\20240702_215331\API-TS\20240702_215331\requests\main\0.har
+
+02-07-2024T21:53:38 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-07-2024T21:53:36 - [TEST_SUITE][PASSED] - API-TS: Test Cases/API/API01]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
