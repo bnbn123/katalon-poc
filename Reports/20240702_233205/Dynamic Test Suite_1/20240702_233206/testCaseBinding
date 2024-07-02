@@ -1,0 +1,3 @@
+{"testCaseName":"Test Cases/DDT_1 - Iteration 1","testCaseId":"Test Cases/DDT_1","iterationVariableName":"","bindedValues":{"position":"\u0027Leader\u0027","employee":"\u0027John\u0027","department":"\u0027Developer\u0027"}}
+{"testCaseName":"Test Cases/DDT_1 - Iteration 2","testCaseId":"Test Cases/DDT_1","iterationVariableName":"","bindedValues":{"position":"\u0027Manager\u0027","employee":"\u0027Anne\u0027","department":"\u0027Marketing\u0027"}}
+{"testCaseName":"Test Cases/DDT_1 - Iteration 3","testCaseId":"Test Cases/DDT_1","iterationVariableName":"","bindedValues":{"position":"\u0027Livestreamer\u0027","employee":"\u0027Rock\u0027","department":"\u0027Livestream\u0027"}}

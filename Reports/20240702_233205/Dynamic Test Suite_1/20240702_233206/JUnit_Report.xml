@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Dynamic Test Suite_1" time="0.581" tests="3" failures="0" errors="0">
+   <testsuite name="Dynamic Test Suite_1" tests="3" failures="0" errors="0" time="0.581" skipped="0" timestamp="02-07-2024T23:32:12" hostname="qHien - DESKTOP-U2IHECD" id="Test Suites/Dynamic Test Suite_1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\qHien\\git\\katalon-poc\\Reports\\20240702_233205\\Dynamic Test Suite_1\\20240702_233206"/>
+         <property name="logFiles" value="C:\\Users\\qHien\\git\\katalon-poc\\Reports\\20240702_233205\\Dynamic Test Suite_1\\20240702_233206\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="qHien - DESKTOP-U2IHECD"/>
+         <property name="hostAddress" value="192.168.0.172"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+      </properties>
+      <testcase name="Test Cases/DDT_1" time="0.287" classname="Test Cases/DDT_1" status="PASSED">
+         <system-out><![CDATA[02-07-2024T23:32:12 - [TEST_CASE][PASSED] - Test Cases/DDT_1: Test Cases/DDT_1
+
+02-07-2024T23:32:13 - [TEST_STEP][PASSED] - println($employee - $department - $position): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DDT_1" time="0.017" classname="Test Cases/DDT_1" status="PASSED">
+         <system-out><![CDATA[02-07-2024T23:32:13 - [TEST_CASE][PASSED] - Test Cases/DDT_1: Test Cases/DDT_1
+
+02-07-2024T23:32:13 - [TEST_STEP][PASSED] - println($employee - $department - $position): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DDT_1" time="0.015" classname="Test Cases/DDT_1" status="PASSED">
+         <system-out><![CDATA[02-07-2024T23:32:13 - [TEST_CASE][PASSED] - Test Cases/DDT_1: Test Cases/DDT_1
+
+02-07-2024T23:32:13 - [TEST_STEP][PASSED] - println($employee - $department - $position): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-07-2024T23:32:12 - [TEST_SUITE][PASSED] - Dynamic Test Suite_1: Test Cases/DDT_1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

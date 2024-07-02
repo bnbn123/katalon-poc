@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Dynamic Test Suite_1,,,,02-07-2024 23:32:14,02-07-2024 23:32:15,0.515s,PASSED
+,,,,,,,
+Test Cases/DDT_1,,,,02-07-2024 23:32:14,02-07-2024 23:32:15,0.253s,PASSED
+println($employee - $department - $position),,,,02-07-2024 23:32:15,02-07-2024 23:32:15,0.028s,PASSED
+,,,,,,,
+Test Cases/DDT_1,,,,02-07-2024 23:32:15,02-07-2024 23:32:15,0.015s,PASSED
+println($employee - $department - $position),,,,02-07-2024 23:32:15,02-07-2024 23:32:15,0.000s,PASSED
+,,,,,,,
+Test Cases/DDT_1,,,,02-07-2024 23:32:15,02-07-2024 23:32:15,0.016s,PASSED
+println($employee - $department - $position),,,,02-07-2024 23:32:15,02-07-2024 23:32:15,0.001s,PASSED

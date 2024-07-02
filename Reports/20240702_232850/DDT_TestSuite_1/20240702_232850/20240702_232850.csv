@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DDT_TestSuite_1,,,,02-07-2024 23:28:55,02-07-2024 23:28:56,0.502s,PASSED
+,,,,,,,
+Test Cases/DDT_1,,,,02-07-2024 23:28:55,02-07-2024 23:28:56,0.249s,PASSED
+println($employee - $department - $position),,,,02-07-2024 23:28:56,02-07-2024 23:28:56,0.026s,PASSED
+,,,,,,,
+Test Cases/DDT_1,,,,02-07-2024 23:28:56,02-07-2024 23:28:56,0.017s,PASSED
+println($employee - $department - $position),,,,02-07-2024 23:28:56,02-07-2024 23:28:56,0.000s,PASSED
+,,,,,,,
+Test Cases/DDT_1,,,,02-07-2024 23:28:56,02-07-2024 23:28:56,0.017s,PASSED
+println($employee - $department - $position),,,,02-07-2024 23:28:56,02-07-2024 23:28:56,0.001s,PASSED

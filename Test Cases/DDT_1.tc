@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDT_1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c65e8c0-377f-43f4-9c04-57257695403d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>dcc0b51a-cda7-414a-8e7b-12dad6b02d0a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Test Data_1</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>dcc0b51a-cda7-414a-8e7b-12dad6b02d0a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>employee</value>
+      <variableId>87ebc473-8ca9-4fd6-8a31-53501bbddc63</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>dcc0b51a-cda7-414a-8e7b-12dad6b02d0a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>department</value>
+      <variableId>9f84d5d3-7136-405d-bc7f-9ac0e5c8e09c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>dcc0b51a-cda7-414a-8e7b-12dad6b02d0a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>position</value>
+      <variableId>1d401a4e-415c-449c-8ae6-1a0ab3a620c8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John'</defaultValue>
+      <description></description>
+      <id>87ebc473-8ca9-4fd6-8a31-53501bbddc63</id>
+      <masked>false</masked>
+      <name>employee</name>
+   </variable>
+   <variable>
+      <defaultValue>'Marketing'</defaultValue>
+      <description></description>
+      <id>9f84d5d3-7136-405d-bc7f-9ac0e5c8e09c</id>
+      <masked>false</masked>
+      <name>department</name>
+   </variable>
+   <variable>
+      <defaultValue>'Manager'</defaultValue>
+      <description></description>
+      <id>1d401a4e-415c-449c-8ae6-1a0ab3a620c8</id>
+      <masked>false</masked>
+      <name>position</name>
+   </variable>
+</TestCaseEntity>
